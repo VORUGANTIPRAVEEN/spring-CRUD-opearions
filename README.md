@@ -1,2 +1,2 @@
 # spring-CRUD-opearions
-Rest Api CRUD operation using java
+Rest Api CRUD operations using java
